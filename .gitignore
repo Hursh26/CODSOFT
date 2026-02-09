@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ---- Large datasets ----
+Credit card fraud detection/Dataset/*.csv
+
+# ---- Trained models / binaries ----
+Credit card fraud detection/*.pkl
+*.pkl
+*.csv
+*.txt
+
+# ---- Python cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual environments ----
+venv/
+env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db

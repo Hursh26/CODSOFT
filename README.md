@@ -21,27 +21,22 @@ Each task in this repository is implemented with original code, following the gu
 ## Tasks Description
 
 ### Task 1
-Brief description of Task 1.  
-This task focuses on understanding core concepts and implementing them practically.
+Built a text-based machine learning model to predict movie genres using TF-IDF and classification algorithms.
 
 ### Task 2
-Brief description of Task 2.  
-This task emphasizes problem-solving, logic building, and structured coding.
+Developed a fraud detection model to classify credit card transactions using supervised learning techniques.
 
 ### Task 3
-Brief description of Task 3.  
-This task involves applying learned concepts to build a functional solution.
-
-(Additional tasks will be added as the internship progresses.)
+Created a customer churn prediction model using historical data and ensemble learning methods.
 
 ---
 
 ## Folder Structure
-CODSOFT/
-│── Task-1/
-│── Task-2/
-│── Task-3/
-│── README.md
+CODSOFT/<br>
+│── Task-1/<br>
+│── Task-2/<br>
+│── Task-3/<br>
+│── README.md<br>
 
 
 ---
